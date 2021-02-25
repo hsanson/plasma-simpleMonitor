@@ -12,9 +12,9 @@ Dependencies
 
 Only needed if you use `cmake` to install this widget.
 
-- CMake >= 2.8.12
+- CMake >= 3.16.3
 - Extra CMake Modules (`extra-cmake-modules`)
-- Plasma Framework Development Package (`plasma-framework-devel`)
+- Plasma Framework Development Package (`libkf5plasma-dev`)
 
 Installation
 ============
